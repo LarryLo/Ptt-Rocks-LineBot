@@ -1,0 +1,22 @@
+{
+  "name": "ptt-robots-service",
+  "version": "0.1.0",
+  "description": "The web service behind the backend of PTT robots.",
+  "private": true,
+  "engines": {
+    "node": "6.9.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.14.0",
+    "body-parser": "1.15.2"
+  },
+  "keywords": [
+    "PttRocks",
+    "Robots"
+  ],
+  "license": "MIT"
+}
