@@ -1,0 +1,10 @@
+{
+  "hostname": "api.line.me",
+  "port": 443,
+  "path": "/v2/bot/message/reply",
+  "method": "POST",
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer rts5FHhz8Bl0xilZIYwUBcqzlKgFdl6YYl+/c0b9ZS4IkCTbhH4eQojepp8SrxQUIGmsKKkpnNTuiv5EaZo6yrPzMs+vkZ2zL+145SsGfE7/b2GmSpWjAZWvykYHv0n5SkMCErCE099Di2ADibODjwdB04t89/1O/w1cDnyilFU="
+  }
+}
