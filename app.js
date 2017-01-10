@@ -128,5 +128,5 @@ function postUrl(id) {
   let board_id = id.split(":");
   let board = board_id[0];
   let file = board_id[1] + ".html";
-  return "https://s3-us-west-2.amazonaws.com/ptt.rocks/posts/" + board + "/" + file;
+  return "https://www.ptt.rocks/share/" + board + '/' + file;
 }
